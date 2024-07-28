@@ -8,6 +8,7 @@ export default defineConfig({
   build: {
     sourcemap: true,
   },
+  base: '/node_fs98_front_VolodymyrKozel',
   /*   server: {
     https: {
       key: fs.readFileSync('./localhost.key'),
